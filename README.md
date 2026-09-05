@@ -1,4 +1,4 @@
-# Awesome Zig [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Zig [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1115454082.svg)](https://doi.org/10.5281/zenodo.19682110)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -130,10 +130,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome C](https://github.com/awesomelistsio/awesome-c)
-- [Awesome Rust](https://github.com/awesomelistsio/awesome-rust)
-- [Awesome Systems Programming](https://github.com/awesomelistsio/awesome-systems-programming)
-- [Awesome Compilers](https://github.com/awesomelistsio/awesome-compilers)
+- [Awesome C](https://github.com/brandonhimpfen/awesome-c)
+- [Awesome Rust](https://github.com/brandonhimpfen/awesome-rust)
+- [Awesome Systems Programming](https://github.com/brandonhimpfen/awesome-systems-programming)
+- [Awesome Compilers](https://github.com/brandonhimpfen/awesome-compilers)
 
 ## Contribute
 
